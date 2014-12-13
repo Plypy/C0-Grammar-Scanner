@@ -1,3 +1,6 @@
+# Ignore everyting
+*
+# except these
 !.gitignore
 !Makefile
 !lexer.c
