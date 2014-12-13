@@ -1,0 +1,6 @@
+!.gitignore
+!Makefile
+!lexer.c
+!parser.c
+!test.l
+!test.y
