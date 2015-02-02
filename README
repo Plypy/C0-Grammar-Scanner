@@ -1,1 +1,3 @@
-To be Updated
+As the name suggests, this is a simple syntactic parser that parses 'C0 grammar'(simplified C grammar that supports if else while) into a JSON object.
+
+It's written for one of my Compiler class lab assignment, so don't laugh about it.
